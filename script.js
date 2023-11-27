@@ -5,7 +5,7 @@
             let currentValue = parseInt(counterElement.innerText);
 
             // Display the un-incremented value in an alert
-            alert("Un-incremented value: " + currentValue);
+            alert(currentValue);
 
             // Increment the counter value
             currentValue++;
